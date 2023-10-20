@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "annettel08.github.io"
+  title: "Annette Loke"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About me
+styles:
+  - path: "styles.css"
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
+
+content:
+  - "Website_HTML_File.Rhtml"
 
 editor: visual
 

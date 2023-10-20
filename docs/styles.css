@@ -1,1 +1,36 @@
 /* css styles */
+
+body {
+    background-color: #FFF7EF;
+    margin-left: 40px; 
+}
+
+}
+
+.navbar {
+    background-color: #B9E9E7;
+}
+
+@font-face {
+  font-family: 'Lemon Milk';
+  src: url('fonts/LEMONMILK-Regular.otf') format('opentype');
+  /* You can specify other font formats as well (e.g., woff, woff2) for better compatibility */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Lemon Milk', sans-serif;
+}
+
+@font-face {
+  font-family: 'Kannada MN';
+  src: local('Kannada MN'), url('fonts/Kannada MN.ttc') format('truetype');
+  /* Specify other font formats for better compatibility if needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Kannada MN', sans-serif;
+}

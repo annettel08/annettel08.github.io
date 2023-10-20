@@ -1,7 +1,17 @@
 ---
-title: "annettel08.github.io"
+title: "<span style='font-family: Lemon Milk, sans-serif; color: #000;'>welcome!</span>"
 ---
 
-This is a Quarto website.
+```{=html}
+<style>
+body {
+  font-family: 'Kannada MN', sans-serif;
+}
+</style>
+```
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+------------------------------------------------------------------------
+
+I am Annette, a product enthusiast and a student at the National University of Singapore. My academic journey in Economics and Communication and New Media has provided me with a unique lens through which I view the world of product management, UX design, and product design.
+
+I am deeply passionate about the art of creating seamless, user-centric digital products and leveraging my analytical skills to enhance their impact. Join me on this journey as I explore the dynamic world of product development and design!

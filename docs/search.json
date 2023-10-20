@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "annettel08.github.io",
+    "title": "welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am Annette, a product enthusiast and a student at the National University of Singapore. My academic journey in Economics and Communication and New Media has provided me with a unique lens through which I view the world of product management, UX design, and product design.\nI am deeply passionate about the art of creating seamless, user-centric digital products and leveraging my analytical skills to enhance their impact. Join me on this journey as I explore the dynamic world of product development and design!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site"
+    "text": "Experiences\n\n\nEducation"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education"
   }
 ]
