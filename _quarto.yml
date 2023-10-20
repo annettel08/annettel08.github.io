@@ -3,13 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Annette Loke"
+  title: "Annette"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About me
+      - href: NM2207.qmd
+        text: NM2207
+    tools:
+      - icon: github
+        href: https://github.com/annettel08
+        
+ 
 styles:
   - path: "styles.css"
 

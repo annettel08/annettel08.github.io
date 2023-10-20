@@ -1,20 +1,15 @@
-/* css styles */
-
 body {
-    background-color: #FFF7EF;
-    margin-left: 40px; 
-}
-
+  background-color: #FFF7EF;
+  margin-left: 40px;
 }
 
 .navbar {
-    background-color: #B9E9E7;
+  background-color: #99D8D5;
 }
 
 @font-face {
   font-family: 'Lemon Milk';
   src: url('fonts/LEMONMILK-Regular.otf') format('opentype');
-  /* You can specify other font formats as well (e.g., woff, woff2) for better compatibility */
   font-weight: normal;
   font-style: normal;
 }
@@ -26,11 +21,27 @@ body {
 @font-face {
   font-family: 'Kannada MN';
   src: local('Kannada MN'), url('fonts/Kannada MN.ttc') format('truetype');
-  /* Specify other font formats for better compatibility if needed */
   font-weight: normal;
   font-style: normal;
 }
 
 body {
   font-family: 'Kannada MN', sans-serif;
+}
+
+.repository-link {
+  position: absolute; 
+  top: 70px; 
+  right: 20px; 
+  background-color: #FFF7EF;
+  color: #102828;
+  padding: 10px;
+  text-align: right;
+  margin: 10px;
+  z-index: 0; 
+}
+
+.fa-github {
+height: 70px;
+width: 70px;
 }

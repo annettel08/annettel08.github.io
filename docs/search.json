@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "About me (WIP)",
     "section": "",
     "text": "Experiences\n\n\nEducation"
   },
@@ -19,5 +19,12 @@
     "title": "About me",
     "section": "Education",
     "text": "Education"
+  },
+  {
+    "objectID": "NM2207.html",
+    "href": "NM2207.html",
+    "title": "NM2207",
+    "section": "",
+    "text": "Link to my NM2207 repository: https://github.com/annettel08/NM2207"
   }
 ]

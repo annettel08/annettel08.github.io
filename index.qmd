@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: Lemon Milk, sans-serif; color: #000;'>welcome!</span>"
+title: "<span style='font-family: Lemon Milk, sans-serif; color: #102828;'>welcome!</span>"
 ---
 
 ```{=html}

@@ -1,6 +1,19 @@
 ---
-title: "About me"
+title: "<span style='font-family: Lemon Milk, sans-serif; color: #102828;'>About me (WIP)</span>"
 ---
+
+```{=html}
+<style>
+body {
+  font-family: 'Kannada MN', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lemon Milk', sans-serif; colour: #102828;
+}
+</style>
+```
+
+------------------------------------------------------------------------
 
 ### Experiences
 
