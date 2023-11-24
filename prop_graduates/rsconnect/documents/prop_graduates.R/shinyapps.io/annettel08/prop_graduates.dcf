@@ -1,0 +1,13 @@
+name: prop_graduates
+title: prop_graduates
+username: annettel08
+account: annettel08
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10609018
+bundleId: 7960650
+url: https://annettel08.shinyapps.io/prop_graduates/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

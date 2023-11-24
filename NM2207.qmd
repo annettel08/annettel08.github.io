@@ -1,9 +1,0 @@
----
-title: "<span style='font-family: Lemon Milk, sans-serif; color: #102828;'>NM2207</span>"
----
-
-::: repository-link
-Link to my NM2207 repository: <a href="https://github.com/annettel08/NM2207">https://github.com/annettel08/NM2207</a>
-:::
-
-------------------------------------------------------------------------

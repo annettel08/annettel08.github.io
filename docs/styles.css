@@ -45,3 +45,21 @@ body {
 height: 70px;
 width: 70px;
 }
+
+<style>
+.left-align {
+   text-align: left;
+   margin: 0;
+   padding: 0;
+   float: left;
+}
+</style>
+
+.sidebar {
+  width: 10%; 
+}
+
+
+.main-body {
+  width: 90%; 
+}

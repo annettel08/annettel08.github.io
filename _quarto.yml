@@ -10,8 +10,8 @@ website:
         text: Home
       - href: about.qmd
         text: About me
-      - href: NM2207.qmd
-        text: NM2207
+      - href: NM2207 project.qmd
+        text: NM2207 Project
     tools:
       - icon: github
         href: https://github.com/annettel08

@@ -1,0 +1,12 @@
+name: enrollment_ter
+title: enrollment_ter
+username: annettel08
+account: annettel08
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10608745
+bundleId: 7960498
+url: https://annettel08.shinyapps.io/enrollment_ter/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

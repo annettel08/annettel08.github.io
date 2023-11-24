@@ -1,0 +1,12 @@
+name: CPI_trends
+title: CPI_trends
+username: annettel08
+account: annettel08
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10480367
+bundleId: 7926484
+url: https://annettel08.shinyapps.io/CPI_trends/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
